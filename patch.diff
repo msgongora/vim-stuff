@@ -1,6 +1,6 @@
---- /usr/local/bin/mvim	2017-04-05 12:14:09.000000000 -0400
-+++ mvim	2017-04-07 17:02:49.000000000 -0400
-@@ -83,6 +83,7 @@
+--- /Applications/MacVim.app/Contents/bin/mvim.orig	2017-11-06 10:21:30.000000000 -0500
++++ /Applications/MacVim.app/Contents/bin/mvim	2017-11-06 10:22:59.000000000 -0500
+@@ -71,6 +71,7 @@
  	# terminal instead of the console log.
  	# But if you use open instead, you will need to fully qualify the
  	# path names for any filenames you specify, which is hard.
